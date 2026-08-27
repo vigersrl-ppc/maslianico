@@ -1,0 +1,18 @@
+{
+  "name": "Piano di Protezione Civile — Comune di Maslianico",
+  "short_name": "PPC Maslianico",
+  "description": "Relazioni, tavole cartografiche e contatti di emergenza del Piano di Protezione Civile del Comune di Maslianico.",
+  "start_url": "./piano-protezione-civile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B2545",
+  "theme_color": "#0B2545",
+  "lang": "it",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
